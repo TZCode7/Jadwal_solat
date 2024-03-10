@@ -1,7 +1,10 @@
 Code by : Zaunkssec_
 
+*This program is created using the Python programming language.*
+- *![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&amp;logo=Python&amp;logoColor=white)*
 
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070637766260)
+*my social media*
+- [![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070637766260)
 
 - install in termux 
 ```
