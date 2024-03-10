@@ -15,3 +15,12 @@ git clone https://github.com/TZCode7/jadwal_solat/
 cd jadwal_solat
 python jadwal.py
 ```
+
+
+![20240310_090533](https://github.com/TZCode7/Jadwal_solat/assets/160266530/b2f214d0-2e94-4903-b8e9-d8b3d0f7bb79)
+
+> thanks to allah💗
+
+- _support me:_
+
+
